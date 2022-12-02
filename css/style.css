@@ -20,6 +20,7 @@ main{
     justify-content: center;
 }
 
+
 .btn-outline-dark {
     width: 200px!important;
 }
@@ -60,6 +61,16 @@ footer div img{
     width: 100px;
     height: 100px;
 }
+
+
+
+
+
+
+
+
+
+
 /* HOME */
 
 div.imgCa div img{
@@ -67,11 +78,23 @@ div.imgCa div img{
     height: 810px;
 }
 
+
+
+
+
+
+
+
+
 /* ABOUT */
 
 .fullH{
     height: 100vh;
 }
+
+
+
+
 
 /* SHOP */
 .section-products {
@@ -117,14 +140,28 @@ div.imgCa div img{
 		transition: all 0.3s;
 }
 
+
+
 .section-products .single-product:hover .part-1::before {
 		transform: scale(1.2,1.2) rotate(5deg);
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
 .section-products .product-1.single-product .part-1::before {
     background: url("../images/productosCuadrados/2.png") no-repeat center;
     background-size: cover;
-		transition: all 0.3s;
+	transition: all 0.3s;
 }
 
 
@@ -187,9 +224,21 @@ div.imgCa div img{
     transition: color 0.2s;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 .section-products .single-product .part-1 ul li a:hover {
     color: #fe302f;
 }
+
 
 .section-products .single-product .part-2 .product-title {
     font-size: 1rem;
